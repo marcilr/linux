@@ -10,6 +10,7 @@ Links
 =====
 Linus Torvalds Isn't Worried About Microsoft Taking Over Linux
 Posted by BeauHD on Monday October 07, 2019 @06:50PM from the don't-sweat-it dept
+https://www.zdnet.com/article/linus-torvalds-isnt-worried-about-microsoft-taking-over-linux/
 https://linux.slashdot.org/story/19/10/07/2049250/linus-torvalds-isnt-worried-about-microsoft-taking-over-linux
 
 The Cathedral and the Bazaar: "Every good work of
