@@ -15,4 +15,7 @@ https://linux.slashdot.org/story/19/10/07/2049250/linus-torvalds-isnt-worried-ab
 The Cathedral and the Bazaar: "Every good work of
 software starts by scratching a developer's
 personal itch."
+Eric Steven Raymond
+Thyrsus Enterprises, http://www.tuxedo.org/~esr/
+<esr@thyrsus.com>
 http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/
