@@ -1,0 +1,28 @@
+microsoft-taking-over-linux.txt
+Created Thu Oct 17 07:25:29 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+inus Torvalds Isn't Worried About Microsoft Taking Over Linux (zdnet.com)140
+Posted by BeauHD on Monday October 07, 2019 @06:50PM 
+from the don't-sweat-it dept.
+
+
+An anonymous reader quotes a report from ZDNet:
+At the 2019 Linux Plumbers Conference, I talked to Linus Torvalds and several other of the Linux kernel's top programmers. They universally agreed Microsoft wants to control Linux, but they're not worried about it. That's because Linux, by its very nature and its GPL2 open-source licensing, can't be controlled by any single third-party. Torvalds said: "The whole anti-Microsoft thing was sometimes funny as a joke, but not really. Today, they're actually much friendlier. I talk to Microsoft engineers at various conferences, and I feel like, yes, they have changed, and the engineers are happy. And they're like really happy working on Linux. So I completely dismissed all the anti-Microsoft stuff."
+
+But that doesn't mean the Microsoft leopard can't change its spots. Sure, he hears, "This is the old Microsoft, and they're just biding their time." But, Torvalds said, "I don't think that's true. I mean, there will be tension. But that's true with any company that comes into Linux; they have their own objectives. And they want to do things their way because they have a reason for it." So, with Linux, "Microsoft tends to be mainly about Azure and doing all the stuff to make Linux work well for them," he explained. Torvalds emphasized this is normal: "I mean, that's just being part of the community."
+James Bottomley, an IBM Research Distinguished Engineer and top Linux kernel developer, sees Microsoft as going through the same process as all other corporate Linux supporters: "This is a thread that runs through Linux. You can't work on the kernel to your own proprietary advantage. A lot of companies, as they came in with the proprietary business model, assumed they could. They have to be persuaded that, if you want something in Linux, that will assist your business -- absolutely fine. But it has to go through an open development process. And if someone else finds it useful, you end up cooperating or collaborating with them to produce this feature." That means, to get things done, even Microsoft is "eventually forced to collaborate with others."
+
+Bottomley concluded: "So it doesn't matter if Microsoft has a competing agenda to Red Hat or IBM or anybody else. Developers are still expected to work together in the Linux kernel with a transparent agenda."
+
+linux os microsoft
+--linux.slashdot.org/story/19/10/07/2049250/...
+
+
+Links
+=====
+Linus Torvalds Isn't Worried About Microsoft Taking Over Linux (zdnet.com)140
+Posted by BeauHD on Monday October 07, 2019 @06:50PM
+from the don't-sweat-it dept.
+https://linux.slashdot.org/story/19/10/07/2049250/linus-torvalds-isnt-worried-about-microsoft-taking-over-linux
